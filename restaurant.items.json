@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6504bb79551647420983355b"
+  },
+  "name": "Table for 4",
+  "price": 99,
+  "isAvailable": true,
+  "comments": "Comments for Item 1",
+  "category": "Table Reservation",
+  "createdAt": {
+    "$date": "2023-09-15T20:15:53.384Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T20:15:53.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504c116551647420983382f"
+  },
+  "name": "Table for 2",
+  "price": 50,
+  "isAvailable": true,
+  "comments": "Comments for Item 2",
+  "category": "Table Reservation",
+  "createdAt": {
+    "$date": "2023-09-15T20:39:50.162Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T20:39:50.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6504c787551647420985df31"
+  },
+  "name": "Table for 8",
+  "price": 150,
+  "isAvailable": true,
+  "comments": "Comments for Item 3",
+  "category": "Table Reservation",
+  "createdAt": {
+    "$date": "2023-09-15T21:07:19.441Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T21:07:19.441Z"
+  },
+  "__v": 0
+}]

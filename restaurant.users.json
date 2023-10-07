@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6504b484dbfa0905fd23312d"
+  },
+  "name": "sid",
+  "email": "test@123",
+  "password": "$2b$10$nk06ol8t04gOa9V823nGwONT/XzJGcacHwjG/i9O640uc4jZpWzcm",
+  "mobileNumber": "74110630921",
+  "createdAt": {
+    "$date": "2023-09-15T19:46:12.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T19:46:12.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650943f51e2d669d3e1579ac"
+  },
+  "name": "spoorthy",
+  "email": "spoo@gmail.com",
+  "password": "$2b$10$UZZDj.ZKvTOHL1.vHl4Lx.A0XzzAChlu3syhWjP/q92sW5T3T9ini",
+  "mobileNumber": "6361930555",
+  "createdAt": {
+    "$date": "2023-09-19T06:47:17.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T06:47:17.456Z"
+  },
+  "__v": 0
+}]
